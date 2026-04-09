@@ -4,5 +4,72 @@
     "link": "https://3dmodels.biznisapps.com/",
     "category": "Design",
     "description": "Create basic 3D models for your projects. Perfect for beginners and basic furniture design."
-  }
+  },
+    {
+        "name": "Apps Tracker",
+        "link": "https://appstracker.biznisapps.com/",
+        "category": "Management",
+        "description": "Track and manage all your applications in one place. Keep an eye on deadlines, statuses, and important details with ease."
+    },
+    {
+        "name": "Cut optimizer",
+        "link": "https://cutoptimizer.biznisapps.com/",
+        "category": "Design",
+        "description": "Optimize your cutting plans for materials. Save time and reduce waste by generating efficient cutting layouts for your projects."
+    },
+    {
+        "name": "Family expenses",
+        "link": "https://expense.biznisapps.com/",
+        "category": "Finance",
+        "description": "Manage your family budget and expenses. Track your spending, set budgets, and gain insights into your financial habits to make informed decisions."
+    },
+    {
+        "name": "Fakture",
+        "link": "https://fakture.biznisapps.com/",
+        "category": "Finance",
+        "description": "Create and manage your company invoices with ease. Generate professional invoices, track payments, and keep your finances organized."
+    },
+    {
+        "name": "Json comparator",
+        "link": "https://json.biznisapps.com/",
+        "category": "Utilities",
+        "description": "Compare JSON data structures easily. Identify differences and similarities between your JSON documents with this powerful tool."
+    },
+    {
+        "name": "Kviz",
+        "link": "https://kviz.biznisapps.com/",
+        "category": "Education",
+        "description": "Create and take quizzes on various topics. Test your knowledge and learn new things with interactive quizzes designed for all ages."
+    },
+    {
+        "name": "Music",
+        "link": "https://music.biznisapps.com/",
+        "category": "Entertainment",
+        "description": "Discover and listen to your favorite music. Create playlists, explore new artists, and enjoy high-quality audio experiences."
+    },{
+        "name": "Quick Presentation",
+        "link": "https://prez.biznisapps.com/",
+        "category": "Productivity",
+        "description": "Create professional presentations quickly and easily. Design visually appealing slides and deliver engaging presentations to your audience."
+    },{
+        "name": "Sprint Retrospective",
+        "link": "https://retro.biznisapps.com/",
+        "category": "Management",
+        "description": "Conduct effective sprint retrospectives to improve your team's performance and collaboration."
+    },{
+        "name": "Screentime",
+        "link": "https://screentime.biznisapps.com/",
+        "category": "Utilities",
+        "description": "Track and manage your screen time. Set limits, monitor usage, and maintain a healthy balance between digital and real-world activities."
+    },{
+        "name": "Vozila",
+        "link":"https://vozila.biznisapps.com/",
+        "category": "Utilities",
+        "description": "Keep links of vehicles You "
+    },{
+        "name": "Weather",
+        "link": "https://weather.biznisapps.com/",
+        "category": "Utilities",
+        "description": "Get real-time weather updates and forecasts for your location."
+    }
 ]
