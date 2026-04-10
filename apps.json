@@ -71,5 +71,10 @@
         "link": "https://weather.biznisapps.com/",
         "category": "Utilities",
         "description": "Get real-time weather updates and forecasts for your location."
+    },{
+        "name": "Solitaire",
+        "link": "https://solitaire.biznisapps.com/",
+        "category": "Entertainment",
+        "description": "Solitaire card game."
     }
 ]
